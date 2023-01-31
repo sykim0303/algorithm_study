@@ -3,7 +3,7 @@
  * https://www.acmicpc.net
  * Problem Number: 4673
  * Level: Silver V
- * Algorithm: Math
+ * Algorithm: Math, Brute Force
  */
 
 /* Pseudocode *
