@@ -3,7 +3,7 @@
  * https://www.acmicpc.net
  * Problem Number: 1260
  * Level: Silver II
- * Algorithm: Graph
+ * Algorithm: Graph Traversal
  */
 
 /* Pseudocode *
